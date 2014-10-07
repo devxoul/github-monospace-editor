@@ -7,4 +7,4 @@
 // @copyright  2014, devxoul
 // ==/UserScript==
 
-$(document.head).append($('<style>#pull_request_body { font-family: monospace; }</style>'));
+$(document.head).append($('<style>#pull_request_body, #new_comment_field { font-family: monospace; }</style>'));
