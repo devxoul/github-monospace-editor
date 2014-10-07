@@ -3,7 +3,8 @@ GitHub Monospace Editor
 
 GitHub Monospace Editor Userscript.
 
-![screenshot](https://raw.githubusercontent.com/devxoul/github-monospace-editor/master/screenshot/screenshot.png)
+![pull_request_body](https://raw.githubusercontent.com/devxoul/github-monospace-editor/master/screenshot/pull_request_body.png)
+![new_comment_field](https://raw.githubusercontent.com/devxoul/github-monospace-editor/master/screenshot/new_comment_field.png)
 
 
 Installation
