@@ -1,6 +1,8 @@
 GitHub Monospace Editor
 =======================
 
+[![Release](http://img.shields.io/github/release/devxoul/github-monospace-editor.svg?style=flat)](https://github.com/devxoul/github-monospace-editor/releases)
+
 GitHub Monospace Editor Userscript.
 
 ![pull_request_body](https://raw.githubusercontent.com/devxoul/github-monospace-editor/master/screenshot/pull_request_body.png)
