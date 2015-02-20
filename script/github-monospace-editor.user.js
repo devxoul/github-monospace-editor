@@ -7,4 +7,11 @@
 // @copyright  2014, devxoul
 // ==/UserScript==
 
-$(document.head).append($('<style>#pull_request_body, #new_comment_field { font-family: monospace; }</style>'));
+(function() {
+  $(document).on('pjax:success', monospace);
+  function monospace() {
+    var css = '<style>.comment-form-textarea{font-family: monospace;}</style>'
+    $(document.head).append($(css));
+  }
+  monospace();
+})();
