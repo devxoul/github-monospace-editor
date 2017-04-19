@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name       GitHub Monospace Editor
 // @namespace  http://xoul.kr/github-monospace-editor
-// @version    0.1.2
+// @version    0.1.3
 // @description  GitHub Monospace Editor
 // @match      github.com/*/*/*
 // @require http://code.jquery.com/jquery-1.11.0.min.js
